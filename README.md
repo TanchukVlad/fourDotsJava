@@ -1,4 +1,4 @@
-# fourDots
+# fourDotsJava
 This program is an interview challenge. Program was written in Java. 
 
 
